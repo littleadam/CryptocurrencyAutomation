@@ -33,9 +33,9 @@ from delta_rest_client import DeltaRestClient, create_order_format, cancel_order
 
 #delta_client = DeltaRestClient(
 #    base_url='https://api.delta.exchange',
-#    api_key='bRqDlnxJ2nzRKGWKh3M9f56jrlLRfO9',
-#    api_secret='qB5eF5GZg354K5LTgkdl9wmgHHEApsRT4btJo0A6TNcHZJlbIBLJ89yBWPC7'
-#)
+#    api_key='bR2nfO9',
+#    api_secret='qB5eFB5eF89yBWPC7'
+
 # Active  format : [['C-BTC-29700-110622', -1, '262.50000000',   60541, 0,    '262.50000000']]
 # Passive format : [['C-BTC-29000-110622',  1, '285.05447068', '363.6', 60372, 829539015    ]]
 DQUOTE      = 'quoting_asset'
