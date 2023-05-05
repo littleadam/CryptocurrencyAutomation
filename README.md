@@ -1,4 +1,5 @@
 Project status : Done
+
 Cryptocurrency Option Trading Automation using Python
 This project aims to automate cryptocurrency option trading using Python. The automation process will allow traders to automatically execute trades based on certain criteria, such as market volatility or specific price movements.
 
@@ -23,7 +24,7 @@ To use this automation system, you will need to configure your API keys for your
 Once you have configured your API keys, you can run the main.py file to start the automation process. The automation process will continuously monitor the market and execute trades based on the criteria you have specified.
 
 Strategy
-The strategy used in this project is based on technical analysis and market volatility. The system uses the Technical Analysis library (ta) to generate buy and sell signals based on price movements and technical indicators. It also uses the Average True Range (ATR) to calculate market volatility and adjust the trade size accordingly.
+The project uses standard option strategies like straddle and strangle
 
 Backtesting
 To backtest the strategy, you can run the backtest.py file. The backtesting process will simulate the trading strategy on historical data and generate performance metrics, such as profit/loss, win rate, and maximum drawdown.
