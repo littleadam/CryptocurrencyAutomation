@@ -22,7 +22,7 @@ To use this automation system, you will need to configure your API keys for your
 Once you have configured your API keys, you can run the main.py file to start the automation process. The automation process will continuously monitor the market and execute trades based on the criteria you have specified.
 
 Strategy
-The project uses standard option strategies like straddle and strangle
+The project uses standard option strategies like straddle and strangle, both short and long
 
 Backtesting
 To backtest the strategy, you can run the backtest.py file. The backtesting process will simulate the trading strategy on historical data and generate performance metrics, such as profit/loss, win rate, and maximum drawdown.
