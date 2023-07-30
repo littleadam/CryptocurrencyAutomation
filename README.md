@@ -1,4 +1,4 @@
-Cryptocurrency Option Trading Automation using Python
+
 This project aims to automate cryptocurrency option trading using Python. The automation process will allow traders to automatically execute trades based on certain criteria, such as market volatility or specific price movements.
 
 Getting Started
