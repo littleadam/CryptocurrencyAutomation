@@ -1,7 +1,7 @@
 
 The project aims to automate cryptocurrency option trading using Python. The automation process will allow traders to automatically execute trades based on certain criteria, such as market volatility or specific price movements.
 
-To get started with this project, you will need to have Python 3.5 or higher installed on your system. You will also need to install the following libraries:
+The project needs Python 3.5 or higher installed on the system,along with the following libraries:
 
 NumPy
 pandas
