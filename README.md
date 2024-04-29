@@ -1,5 +1,5 @@
 
-The project aims to automate cryptocurrency option trading using Python. The automation process will allow traders to automatically execute trades based on certain criteria, such as market volatility or specific price movements.
+The project aims to automate cryptocurrency option trading using Python. The platform used for testing is Delta exchange.The automation process will allow traders to automatically execute trades based on certain criteria, such as market volatility or specific price movements.
 
 The project needs Python 3.5 or higher installed on the system,along with the following libraries:
 
