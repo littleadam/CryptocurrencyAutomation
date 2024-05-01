@@ -8,8 +8,6 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-ta
-ccxt
 You can install these libraries using the pip package manager by running the following command:
 
 sh
