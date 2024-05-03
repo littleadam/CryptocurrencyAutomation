@@ -13,7 +13,8 @@ You can install these libraries using the pip package manager by running the fol
 sh
 Copy code
 pip install numpy pandas matplotlib seaborn scikit-learn ta ccxt
-Usage
+
+Usage:
 To use this automation system, you will need to configure your API keys for your chosen cryptocurrency exchange. The supported exchanges are listed in the exchange.py file. You will need to create an account with your chosen exchange and generate API keys with trading permissions.
 
 Once you have configured your API keys, you can run the main.py file to start the automation process. The automation process will continuously monitor the market and execute trades based on the criteria you have specified.
