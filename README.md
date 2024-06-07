@@ -1,5 +1,5 @@
 
-The project aims to automate cryptocurrency option trading using Python and GenAI. The platform used for testing is Delta exchange client.The automation process will allow traders to automatically execute trades based on certain criteria, such as market volatility or specific price movements.AI is used to predict ltp
+The project aims to automate cryptocurrency option trading using Python and GenAI. The platform used for testing is Delta exchange client.The automation process will allow traders to automatically execute trades based on certain criteria, such as market volatility or specific price movements.AI is used to predict ltp  The project will attempt to find an adaptive solution for all the market conditions
 
 The project needs Python 3.5 or higher installed on the system,along with the following libraries:
 
