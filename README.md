@@ -7,7 +7,7 @@ NumPy
 pandas
 matplotlib
 seaborn
-scikit-learn
+
 You can install these libraries using the pip package manager by running the following command:
 
 sh
